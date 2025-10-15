@@ -31,10 +31,6 @@ brew tap mongodb/brew
 brew install mongodb-community@7.0  
 brew services start mongodb-community@7.0
 ```
-sad
-```
-sad
-```
 
 ### 2. Set Up Python Virtual Environment
 ```
